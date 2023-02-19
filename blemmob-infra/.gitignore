@@ -10,3 +10,4 @@ cdk.out
 
 
 blemmob-infra/lib/.env
+.env
